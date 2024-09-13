@@ -8,7 +8,7 @@ Aqui estão algumas coisas sobre mim { Here are some things about me }
 
 ##
 
-<img src="https://raw.githubusercontent.com/Arthur-Snts/Arthur-Snts/output/blank.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Arthur-Snts/Arthur-Snts/output/snake.svg" alt="Snake animation" />
 
 
 ##
