@@ -6,10 +6,6 @@ Aqui estão algumas coisas sobre mim { Here are some things about me }
 - I like back-end development!
 - Ask me about python and programming!
 
-##
-
-<img src="https://raw.githubusercontent.com/Arthur-Snts/Arthur-Snts/output/snake.svg" alt="Snake animation" />
-
 
 ##
 
