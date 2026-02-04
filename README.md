@@ -42,6 +42,15 @@ Hi! My name is **Arthur**, I am **19 years old**, and I am
 
 ---
 
+### Versioning and Documentation
+
+| VSCode | Git | UML |
+|:----:|:----------:|:---:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" width="40" /> |
+
+
+---
+
 ## 📚 Tecnologias em Aprendizado | Currently Learning
 
 **🇧🇷 Português**
